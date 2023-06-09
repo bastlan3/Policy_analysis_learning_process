@@ -8,9 +8,7 @@ under the supervision of Alberto Chiappa
 
 Mathis group
 
-
-
-The libraries under need to be installed to be able to run this notebook.
+The notebook is in the file src/BastienLeLan_Analysis_of_learning_process_at_different_stages.ipynb
 
 The notebook needs to be run from the src folder of the project, only one modification was made to the original code of the library is to rename all model model.zip inside their respective folder, to be able to load the curiculum weights efficiently.
 
